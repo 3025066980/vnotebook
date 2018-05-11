@@ -7,25 +7,28 @@
     "recycle_bin_folder": "_v_recycle_bin",
     "sub_directories": [
         {
-            "name": "DL框架"
-        },
-        {
-            "name": "CVDL"
-        },
-        {
-            "name": "Python"
+            "name": "Noma"
         },
         {
             "name": "C++"
         },
         {
+            "name": "Python"
+        },
+        {
             "name": "Linux"
         },
         {
-            "name": "面试"
+            "name": "CVDL"
+        },
+        {
+            "name": "DL框架"
         },
         {
             "name": "算法"
+        },
+        {
+            "name": "面试"
         }
     ],
     "version": "1"
