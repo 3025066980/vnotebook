@@ -1,3 +1,4 @@
+vnote_backup_file_826537664 D:/vnotebook/Noma/noma_dl_sim.md
 # noma_dl_sim
 ## 1. 介绍
 - NOMA 通过对簇内用户分配不同的发射功率，能够在功率域实现不同用户信号的区分，通过采用串行干扰消除（Successive Interference Cancellation, SIC）技术对距离基站近、信道环境较好的用户信号进行恢复，从而实现空域，时域和频域的非正交数据传输，在不增加带宽消耗的条件下显著改善系统频谱线路和传输可靠性。
