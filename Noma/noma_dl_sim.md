@@ -80,8 +80,7 @@ $$SINR_{n,2}=\frac{|h_{n,2}w_n|^2\alpha_{n,2}P_{n,2}}{|h_{n,2}w_n|^2\alpha_{n,1}
 ![The Application of Machine Learning in mmWave-NOMA Systems](_v_images/_theapplica_1526549859_1747.png)
 ## 4. 功率分配
 - 固定功率分配
-- 
-
+- 基于公平的基础上最大化和速率
 ## 参考文献
 1. Non-orthogonal multiple access in a downlink multiuser beamforming system
 2. 非正交多址技术中利用对称矩阵的用户分组
