@@ -7,6 +7,9 @@
     "recycle_bin_folder": "_v_recycle_bin",
     "sub_directories": [
         {
+            "name": "Daydreaming"
+        },
+        {
             "name": "Noma"
         },
         {
@@ -20,9 +23,6 @@
         },
         {
             "name": "CVDL"
-        },
-        {
-            "name": "DL框架"
         },
         {
             "name": "算法"
