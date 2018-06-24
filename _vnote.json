@@ -7,22 +7,10 @@
     "recycle_bin_folder": "_v_recycle_bin",
     "sub_directories": [
         {
-            "name": "Daydreaming"
-        },
-        {
             "name": "Noma"
         },
         {
             "name": "C++"
-        },
-        {
-            "name": "Python"
-        },
-        {
-            "name": "Linux"
-        },
-        {
-            "name": "CVDL"
         },
         {
             "name": "算法"
